@@ -1,0 +1,12 @@
+﻿  PlantsVsZombies_EasyX_main.cpp
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(29,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(32,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(31,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(41,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(68,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(68,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(74,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(75,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(141,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\PlantsVsZombies_EasyX_main.cpp(142,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  PlantsVsZombies_EasyX.vcxproj -> D:\source_project\c.learn\easyx\newproject\PlantsVsZombies_EasyX\x64\Debug\PlantsVsZombies_EasyX.exe
